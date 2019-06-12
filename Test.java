@@ -1,1 +1,1 @@
-System.out(123)
+System.out(nihao)
